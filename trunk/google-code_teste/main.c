@@ -11,7 +11,8 @@
 /*
  * making test using google code and NetBeans
  * all my changes are displayed with a blue 
- * column at left.  
+ * column at left. After commit, the blue column
+ * disappears and the code grow up at google code.
  */
 int main(int argc, char** argv) {
     int i = 5;
